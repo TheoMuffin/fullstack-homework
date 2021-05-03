@@ -44,6 +44,14 @@
   &:last-child {
     border-right: none;
   }
+
+  &.better-humus-balance {
+    color: green;
+  }
+
+  &.worse-humus-balance {
+    color: red;
+  }
 }
 
 .table__cell--center {
